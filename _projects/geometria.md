@@ -6,8 +6,6 @@ permalink: /geometria-app/
 position: 100
 ---
 
-# {{ page.title }}
-
 ## {{page.description}}
 
 {% include vimeoPlayer.html id=page.vimeoId %}
