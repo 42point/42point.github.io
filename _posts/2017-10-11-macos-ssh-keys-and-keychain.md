@@ -53,9 +53,7 @@ tags:
    </plist>
    {% endhighlight %} 
    {:start="7"}
-7. Если не хотим каждый раз вводить пароль — в настройках “связки ключей” снимаем галочку об автоматической блокировке.
-   {% include gallery caption="This is a sample gallery with **Markdown support**." %}
-   uploads/2017/10/Screen-Shot-2017-10-11-at-10.51.12-1.png
+7. Если не хотим каждый раз вводить пароль — в настройках “связки ключей” снимаем галочку об автоматической блокировке. {% include gallery  %}
 8. PS для того что бы посмотреть текущие ключи в в агенте `ssh-add -l`.
 
 [Saving SSH keys in macOS Sierra keychain](https://github.com/jirsbek/SSH-keys-in-macOS-Sierra-keychain)
